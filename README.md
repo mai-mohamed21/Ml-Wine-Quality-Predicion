@@ -26,3 +26,10 @@ Correlation matrix
 Confusion matrices
 ROC curves
 Training/validation loss & accuracy curves
+
+## **📊 Results**
+
+| Model             | Test Accuracy | F1 Score | AUC     |
+|------------------|---------------|----------|---------|
+| Polynomial SVM   | 77.26%        | 0.80     | 0.82    |
+| Neural Network   | 74.34%        | 0.76     | 0.79    |
