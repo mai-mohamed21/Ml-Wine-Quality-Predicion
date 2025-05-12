@@ -22,9 +22,9 @@ Activation functions tested: ReLU, Sigmoid, Tanh
 Best model: Sigmoid
 
 ## **📈 Visualizations**
-Correlation matrix
-Confusion matrices
-ROC curves
+Correlation matrix, 
+Confusion matrices, 
+ROC curves, 
 Training/validation loss & accuracy curves
 
 ## **📊 Results**
